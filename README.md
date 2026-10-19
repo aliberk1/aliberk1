@@ -1,8 +1,7 @@
 <h1 align="center">Hi there, I'm Ali Berk</h1>
 
 <p align="center">
-  Software Engineering student at <strong>Ankara Science University</strong> · Building AI-powered, real-time and full-stack experiences
-</p>
+ Software Engineering senior student at Ankara Science University · Building AI-powered, real-time and full-stack experience
 
 ---
 
