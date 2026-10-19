@@ -1,8 +1,23 @@
 <h1 align="center">Hi there, I'm Ali Berk 👋</h1>
 
 <p align="center">
-  Software Engineering student at <strong>Ankara Science University</strong> · Passionate developer building practical, intelligent software
+  Software Engineering student at <strong>Ankara Science University</strong> · Building AI-powered, real-time and full-stack experiences
 </p>
+
+---
+
+### 🌟 Spotlight · DeepFake Live
+
+**[Explore the DeepFake project →](https://github.com/aliberk1/DeepFake)**
+
+A real-time AI interaction platform that brings together **live face swapping, voice cloning, voice conversion and interactive interview scenarios**. A React interface streams camera video over WebRTC to a GPU worker for InsightFace-based face swapping; separate services handle XTTSv2 speech synthesis and RVC voice conversion.
+
+- **Real-time video:** WebRTC, aiortc, InsightFace and InSwapper, with CUDA support and CPU fallback.
+- **Voice & scenarios:** XTTSv2 text-to-speech, RVC voice-to-voice conversion and multi-speaker interview flows.
+- **Architecture:** React + Vite frontend, FastAPI signaling server, GPU worker and TTS microservice.
+- **Responsible use:** The project documents consent-based demo use and adds an **“AI GENERATED - DEEPFAKE”** watermark to processed video frames.
+
+`Python` · `FastAPI` · `React` · `WebRTC` · `InsightFace` · `XTTSv2` · `RVC` · `PyTorch`
 
 ---
 
@@ -41,11 +56,19 @@
 ![Linux (WSL)](https://img.shields.io/badge/Linux_(WSL)-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
+**AI, Media & Desktop**
+
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 ### 🚀 Featured Projects
 
-- **Wi-Fi Sensing & CSI Analysis** — A privacy-focused capstone project exploring human activity recognition through Wi-Fi channel state information. **Tech:** ESP32, PicoScenes, CSI analysis.
-- **BorsaMeclisi** — A multi-agent AI platform for financial discussions, developed for the BTK Akademi Hackathon. **Tech:** LangGraph, AI agents.
-- **AI-Powered CRM & Logistics Automation** — An offline-first automation system connecting messaging, local AI, and business workflows. **Tech:** Evolution API, Ollama LLM, PostgreSQL, Perfex CRM, Odoo.
+- **[DeepFake Live](https://github.com/aliberk1/DeepFake)** — Real-time face swapping, voice cloning and interactive AI interview scenarios. **Tech:** WebRTC, InsightFace, XTTSv2, RVC, FastAPI, React.
+- **[Automated Assessment & Feedback System](https://github.com/aliberk1/Automated-Assessment-Feedback-System)** — An AI-powered learning platform that evaluates speaking, writing and quiz submissions, returning scores and actionable feedback. **Tech:** FastAPI, React, Vite.
+- **[Smart Travel Planner Platform](https://github.com/aliberk1/SmartTravelPlannerPlatform)** — A team-built JavaFX trip planner featuring weather simulation, activity planning, undo/redo and seven software design patterns. **Tech:** Java 17, JavaFX, Maven.
+- **[Lost & Found](https://github.com/aliberk1/lost-found)** — A web app for posting, finding and managing lost items. **Tech:** PHP, MySQL.
 
 ### 📊 GitHub Stats
 
