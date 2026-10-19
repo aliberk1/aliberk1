@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ali Berk 👋</h1>
+<h1 align="center">Hi there, I'm Ali Berk</h1>
 
 <p align="center">
   Software Engineering student at <strong>Ankara Science University</strong> · Building AI-powered, real-time and full-stack experiences
@@ -6,7 +6,7 @@
 
 ---
 
-### 🌟 Spotlight · DeepFake Live
+###  Spotlight · DeepFake Live
 
 **[Explore the DeepFake project →](https://github.com/aliberk1/DeepFake)**
 
@@ -63,7 +63,7 @@ A real-time AI interaction platform that brings together **live face swapping, v
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 - **[DeepFake Live](https://github.com/aliberk1/DeepFake)** — Real-time face swapping, voice cloning and interactive AI interview scenarios. **Tech:** WebRTC, InsightFace, XTTSv2, RVC, FastAPI, React.
 - **[Automated Assessment & Feedback System](https://github.com/aliberk1/Automated-Assessment-Feedback-System)** — An AI-powered learning platform that evaluates speaking, writing and quiz submissions, returning scores and actionable feedback. **Tech:** FastAPI, React, Vite.
